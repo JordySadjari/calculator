@@ -1,1 +1,1 @@
-# calculator
+# This is a javascript calculator i made to test myself and see if i could make something simple.
